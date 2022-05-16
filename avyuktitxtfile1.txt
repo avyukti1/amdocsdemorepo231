@@ -1,0 +1,5 @@
+name     score
+ramesh    10
+suresh    20
+basava    30
+adya      40
